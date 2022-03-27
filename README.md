@@ -16,7 +16,7 @@ sudo dnf install libpq-devel python3-devel -vy
 ```
 ### Ubuntu
 ```shell
-sudo apt-get install libpq-devel python3-devel -vy
+sudo apt-get install libpq-devel python3-devel -y
 ```
 
 ## Solving database connection problems
